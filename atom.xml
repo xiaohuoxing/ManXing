@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://xiaohuoxing.github.io</id>
+    <id>http://xiaohuoxing1016.xyz</id>
     <title>小伙星</title>
-    <updated>2020-06-11T08:17:17.367Z</updated>
+    <updated>2020-06-11T08:20:02.392Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://xiaohuoxing.github.io"/>
-    <link rel="self" href="http://xiaohuoxing.github.io/atom.xml"/>
+    <link rel="alternate" href="http://xiaohuoxing1016.xyz"/>
+    <link rel="self" href="http://xiaohuoxing1016.xyz/atom.xml"/>
     <subtitle>我是小萌新,酷安的桌面时钟插件开发者</subtitle>
-    <logo>http://xiaohuoxing.github.io/images/avatar.png</logo>
-    <icon>http://xiaohuoxing.github.io/favicon.ico</icon>
+    <logo>http://xiaohuoxing1016.xyz/images/avatar.png</logo>
+    <icon>http://xiaohuoxing1016.xyz/favicon.ico</icon>
     <rights>All rights reserved 2020, 小伙星</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>http://xiaohuoxing.github.io/post/hello-gridea/</id>
-        <link href="http://xiaohuoxing.github.io/post/hello-gridea/">
+        <id>http://xiaohuoxing1016.xyz/post/hello-gridea/</id>
+        <link href="http://xiaohuoxing1016.xyz/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
