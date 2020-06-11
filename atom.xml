@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://xiaohuoxing1016.xyz</id>
     <title>小伙星</title>
-    <updated>2020-06-11T08:20:02.392Z</updated>
+    <updated>2020-06-11T13:08:36.049Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://xiaohuoxing1016.xyz"/>
     <link rel="self" href="http://xiaohuoxing1016.xyz/atom.xml"/>
@@ -10,6 +10,53 @@
     <logo>http://xiaohuoxing1016.xyz/images/avatar.png</logo>
     <icon>http://xiaohuoxing1016.xyz/favicon.ico</icon>
     <rights>All rights reserved 2020, 小伙星</rights>
+    <entry>
+        <title type="html"><![CDATA[关于]]></title>
+        <id>http://xiaohuoxing1016.xyz/post/about/</id>
+        <link href="http://xiaohuoxing1016.xyz/post/about/">
+        </link>
+        <updated>2020-06-11T11:09:48.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>欢迎来到我的小站呀，很高兴遇见你！🤝<br>
+可以申请友链，发到邮箱就可以了</p>
+</blockquote>
+<blockquote>
+<p>🏠 关于本站<br>
+<a href="https://github.com/getgridea/gridea">网站制作</a>  然后自己瞎搞<br>
+本站建于2020.06.11😀</p>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>欢迎来到我的小站呀，很高兴遇见你！🤝<br>
+可以申请友链，发到邮箱就可以了</p>
+</blockquote>
+<blockquote>
+<p>🏠 关于本站<br>
+<a href="https://github.com/getgridea/gridea">网站制作</a>  然后自己瞎搞<br>
+本站建于2020.06.11😀</p>
+</blockquote>
+<!-- more -->
+<blockquote>
+<p>⛹ 兴趣爱好<br>
+吃好吃的 睡觉，刷酷安 看哔哩哔哩 玩电脑游戏 等！</p>
+</blockquote>
+<blockquote>
+<p>✏️我的软件<br>
+酷安：<a href="https://www.coolapk.com/apk/256956">Cool Clock</a><br>
+酷安：<a href="http://www.coolapk.com/u/760019/">Kitty Widget</a><br>
+以上的都是时钟插件<br>
+其他敬请期待</p>
+</blockquote>
+<blockquote>
+<p>📬 联系我呀<br>
+酷安：<a href="http://www.coolapk.com/u/760019/">小伙星</a><br>
+邮箱：xiaohuoxing1016@qq.com<br>
+邮箱：manxing2323@gmail.com<br>
+Uplay：manxing<br>
+Steam：859484628 名字：寒冰小雨</p>
+</blockquote>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>http://xiaohuoxing1016.xyz/post/hello-gridea/</id>
