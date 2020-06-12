@@ -2,18 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://xiaohuoxing1016.xyz</id>
     <title>小伙星的博客</title>
-    <updated>2020-06-12T09:21:06.947Z</updated>
+    <updated>2020-06-12T11:50:26.201Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://xiaohuoxing1016.xyz"/>
     <link rel="self" href="http://xiaohuoxing1016.xyz/atom.xml"/>
-    <subtitle>小伙星&lt;br&gt;&lt;br&gt;
+    <subtitle>  &lt;font color=&quot;#000000&quot;&gt; 小伙星&lt;br&gt;&lt;br&gt;
  欢迎来到我的小站呀，很高兴遇见你！🤝&lt;br&gt;
 可以申请友链，发到邮箱就可以了
 &lt;b&gt;兴趣爱好 :&lt;/b&gt;
 吃好吃的 睡觉，刷酷安 看哔哩哔哩 玩电脑游戏 等！&lt;br&gt;
-最近在开发图标包，基于candybar的功能比较多，还有壁纸。&lt;br&gt;
+最近在开发图标包，基于candybar的功能比较多，还有壁纸。
+&lt;br&gt;&lt;br&gt;
  本站建于2020.06.11😀&lt;br&gt;&lt;br&gt;
-友情链接：&lt;a class=&quot;mdui-btn mdui-btn-dense grey-text text-lighten-4 mdui-text-capitalize&quot; href=&quot;https://0047ol.com&quot; style=&quot;font-weight: 350;&quot;&gt;047&lt;/a&gt;</subtitle>
+友情链接：&lt;a class=&quot;mdui-btn mdui-btn-dense grey-text text-lighten-4 mdui-text-capitalize&quot; href=&quot;https://0047ol.com&quot; style=&quot;font-weight: 350;&quot;&gt;047&lt;/a&gt;  &lt;/font&gt;</subtitle>
     <logo>http://xiaohuoxing1016.xyz/images/avatar.png</logo>
     <icon>http://xiaohuoxing1016.xyz/favicon.ico</icon>
     <rights>All rights reserved 2020, 小伙星的博客</rights>
@@ -42,26 +43,6 @@
 <a href="https://github.com/getgridea/gridea">网站制作</a>  然后自己瞎搞<br>
 本站建于2020.06.11😀</p>
 </blockquote>
-<!-- more -->
-<blockquote>
-<p>⛹ 兴趣爱好<br>
-吃好吃的 睡觉，刷酷安 看哔哩哔哩 玩电脑游戏 等！</p>
-</blockquote>
-<blockquote>
-<p>✏️我的软件<br>
-酷安：<a href="https://www.coolapk.com/apk/256956">Cool Clock</a><br>
-酷安：<a href="http://www.coolapk.com/u/760019/">Kitty Widget</a><br>
-以上的都是时钟插件<br>
-其他敬请期待</p>
-</blockquote>
-<blockquote>
-<p>📬 联系我呀<br>
-酷安：<a href="http://www.coolapk.com/u/760019/">小伙星</a><br>
-邮箱：xiaohuoxing1016@qq.com<br>
-邮箱：manxing2323@gmail.com<br>
-Uplay：manxing<br>
-Steam：859484628 名字：寒冰小雨</p>
-</blockquote>
 ]]></content>
     </entry>
     <entry>
@@ -75,25 +56,6 @@ Steam：859484628 名字：寒冰小雨</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
 ✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
 ]]></content>
     </entry>
 </feed>
