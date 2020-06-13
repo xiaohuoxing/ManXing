@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://xiaohuoxing1016.xyz</id>
     <title>小伙星的博客</title>
-    <updated>2020-06-13T08:27:28.000Z</updated>
+    <updated>2020-06-13T08:40:17.675Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://xiaohuoxing1016.xyz"/>
     <link rel="self" href="http://xiaohuoxing1016.xyz/atom.xml"/>
@@ -20,6 +20,13 @@
     <logo>http://xiaohuoxing1016.xyz/images/avatar.png</logo>
     <icon>http://xiaohuoxing1016.xyz/favicon.ico</icon>
     <rights>All rights reserved 2020, 小伙星的博客</rights>
+    <entry>
+        <title type="html"><![CDATA[友情链接详细]]></title>
+        <id>http://xiaohuoxing1016.xyz/post/B9Y_W5AGu/</id>
+        <link href="http://xiaohuoxing1016.xyz/post/B9Y_W5AGu/">
+        </link>
+        <updated>2020-06-13T08:28:34.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[关于]]></title>
         <id>http://xiaohuoxing1016.xyz/post/about/</id>
